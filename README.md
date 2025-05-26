@@ -1,5 +1,6 @@
 ### Hello, World 👋
 
+- 🧠 Calm and curious mindset.
 - 🔭 I’m currently working in the Identity & Access Management area.
 - 👀 I’m interested in Software Development and Software Architecture.
 - 🌱 I’m always looking for new ways to improve my skills.
